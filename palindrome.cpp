@@ -17,7 +17,7 @@ else{
     
 }
 int main(){
-    string name ="sakshararadharama";
+    string name ="flipkart";
 
    // function call
     bool ispalindrome= checkpalindrome(name,0,name.length()-1);
